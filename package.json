@@ -1,0 +1,38 @@
+{
+  "name": "kiwiblog-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syh8088/KiwiBlog-Front.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syh8088/KiwiBlog-Front/issues"
+  },
+  "homepage": "https://github.com/syh8088/KiwiBlog-Front#readme",
+  "dependencies": {
+    "@nuxtjs/axios": "^5.9.5",
+    "@nuxtjs/moment": "^1.6.0",
+    "@nuxtjs/toast": "^3.3.0",
+    "@nuxtjs/vuetify": "^1.10.3",
+    "axios": "^0.19.2",
+    "cookie-universal-nuxt": "^2.1.2",
+    "lodash.throttle": "^4.1.1",
+    "nuxt": "^2.11.0",
+    "vee-validate": "^2.2.7",
+    "vue": "^2.6.11",
+    "vue-sidebar-menu": "^4.5.1",
+    "vuetify": "^2.2.12"
+  },
+  "devDependencies": {
+    "case-sensitive-paths-webpack-plugin": "^2.3.0"
+  }
+}
