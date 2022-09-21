@@ -30,7 +30,7 @@
     "vee-validate": "^2.2.7",
     "vue": "^2.6.11",
     "vue-sidebar-menu": "^4.5.1",
-    "vuetify": "^2.2.12"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "case-sensitive-paths-webpack-plugin": "^2.3.0"
